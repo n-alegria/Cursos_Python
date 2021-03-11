@@ -1,0 +1,12 @@
+Fases de creación de un código y componentes de pensamiento computacional.
+Fases diferenciadas en el proceso de creación de un código:
+
+1. Detección y delimitación del problema y de su naturaleza.
+2. Delimitación de métodos y disciplinas en la resolución del problema.
+3. Organización de la resolución,feed back e investigación formativa.
+4. Diseño de la resolución.
+5. Algoritmia/diagrama de flujo.
+6. Elaboración del código (programa). Incluye codificación, ejecuciones e implementación, documentación, etiquetas, modularización.
+7. Prueba/ Validación.
+
+-Incluye implementación y depuraciones de errores,La codificación es parte del pensamiento lógico
